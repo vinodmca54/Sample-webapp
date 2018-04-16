@@ -1,0 +1,17 @@
+.img{
+    background-image: url('../../assets/slider2.jpg');
+    height: 800px;
+    margin-top: -52px;
+}
+.top-div{
+    display: flex;
+}
+.div1,.div2{
+    margin: auto;
+    width: 500px;
+}
+
+.inner{
+    text-align: center;
+    font-size: 40px;
+}
