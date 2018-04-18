@@ -29,3 +29,24 @@ li a:hover:not(.active) {
     margin-left: 1000px;
     margin-top: 7px;
 }
+.footer{
+    background-color: #2aa594;
+    height: 80px;
+    width: 100%;
+}
+.mat-toolbar.mat-primary {
+    background: #3f51b5;
+    color: #fff;
+    position: fixed;
+}
+.icons{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.content{
+    float: right;
+    margin-top: -60px;
+}
+
+   
